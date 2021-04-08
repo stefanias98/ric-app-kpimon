@@ -5,8 +5,8 @@
     {
       "name": "xappkpimon5",
       "image": {
-        "registry": "docker.io/stefanias98",
-        "name": "scp-ric-app-kpimon",
+        "registry": "docker.io",
+        "name": "stefanias98/scp-ric-app-kpimon",
         "tag": "1.0.0"
       }
     }
