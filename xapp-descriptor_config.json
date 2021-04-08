@@ -1,9 +1,9 @@
 {
-  "xapp_name": "xappkpimon5",
+  "xapp_name": "xappkpimon",
   "version": "1.0.0",
   "containers": [
     {
-      "name": "xappkpimon5",
+      "name": "xappkpimon",
       "image": {
         "registry": "docker.io",
         "name": "stefanias98/scp-ric-app-kpimon",
